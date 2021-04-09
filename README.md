@@ -1,9 +1,9 @@
 # Mini Fetch Hook
 ## How to use?
 ---
-1- Clone/download or fork this repository.
-2- Go to your React proyect, move to the <b>src</b> folder of your proyect and put the cloned/forked folder inside src.
-3- Import it in a component and start to use as a normal function.
+- Clone/download or fork this repository.
+- Go to your React proyect, move to the <b>src</b> folder of your proyect and put the cloned/forked folder inside src.
+- Import it in a component and start to use as a normal function.
 
 ```javascript React
 import React from 'react'
